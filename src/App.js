@@ -6,10 +6,10 @@ import './ImageUploader.css'
 
 // Configure AWS S3 object
 AWS.config.update({
-  accessKeyId: "AKIAZLVHKEBKZAJGVVHP",
-  secretAccessKey: "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",
-  region: "eu-west-2",
-  signatureVersion: "v4",  
+  accessKeyId: "-----------------",
+  secretAccessKey: "-------------------------",
+  region: "-------",
+  signatureVersion: "--------",  
 });
 const s3 = new AWS.S3();
 
